@@ -232,7 +232,7 @@ This project is licensed under the ISC License.
 
 ## 👨‍💻 Author
 
-**07Sarthak** - [GitHub Profile](https://github.com/07Sarthak)
+**KunalNath04** - [GitHub Profile](https://github.com/KunalNath04)
 
 ## 🙏 Acknowledgments
 
